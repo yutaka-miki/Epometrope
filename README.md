@@ -1,5 +1,3 @@
-# epometorope-hardware
-
 # RaspberryPiのブートデータ  
 下記のimgファイルをダウンロードし、microSDカード（16GB以上。16GB推奨）に書き込む。
 
