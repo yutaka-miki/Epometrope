@@ -1,5 +1,5 @@
 # RaspberryPiのブートデータ  
-下記のimgファイルをダウンロードする、microSDカード（16GB以上。16GB推奨）に書き込む。  
+下記のimgファイルをダウンロードする。
 https://drive.google.com/file/d/1g2h24WVKOyjdqze8mTz4kyEhPveUiNDe/view?usp=sharing
 
 ダウンロードしたimgファイルをbalenaEtcherなどでmicroSD（16GB以上）に書き込む。
