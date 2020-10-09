@@ -4,7 +4,7 @@ https://drive.google.com/file/d/1g2h24WVKOyjdqze8mTz4kyEhPveUiNDe/view?usp=shari
 
 ダウンロードしたimgファイルをbalenaEtcherなどでmicroSD（16GB以上）に書き込む。
   
-balenaEtcherダウンロードサイト  
+【参考】balenaEtcherダウンロードサイト  
 https://www.balena.io/etcher/
 
 # 組み立て説明書  
