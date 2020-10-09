@@ -2,7 +2,7 @@
 下記のimgファイルをダウンロードする、microSDカード（16GB以上。16GB推奨）に書き込む。  
 https://drive.google.com/file/d/1g2h24WVKOyjdqze8mTz4kyEhPveUiNDe/view?usp=sharing
 
-ダウンロードしたimgファイルをbalenaEtcherなどでmicroSD（16GB以上）に書き込む。   
+ダウンロードしたimgファイルをbalenaEtcherなどでmicroSD（16GB以上）に書き込む。     
 balenaEtcherダウンロードサイト  
 https://www.balena.io/etcher/
 
