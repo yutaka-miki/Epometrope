@@ -6,5 +6,14 @@ https://note.com/katayukimi/n/naa818877c9c2
 
 # 必要なもの
 
-# 組み立てインストラクション（暫定版）  
+# 組み立て説明書  
 https://docs.google.com/document/d/19RMpfx-YfTb1uZXj3RErybrc5b69bqix4a3tBb6x_-0/edit?usp=sharing
+
+# アプリケーション
+epomeMoviePlayer  
+https://github.com/yutaka-miki/epomeMoviePlayer  
+  
+epomeHLSResceiver  
+https://github.com/yutaka-miki/epomeHLSResceiver
+
+# 作品
