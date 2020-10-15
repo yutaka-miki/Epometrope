@@ -30,4 +30,4 @@ Aqualium
 https://github.com/yutaka-miki/Aqualium
 
 # OFAD Media Project
-https://note.com/katayukimi/n/naa818877c9c2  
+https://github.com/yutaka-miki/epometorope-hardware/blob/main/OFAD-Media-Project.md 
