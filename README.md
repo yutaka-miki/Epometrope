@@ -1,6 +1,3 @@
-# OFAD Media Project
-https://note.com/katayukimi/n/naa818877c9c2  
-
 # エポメトロープとは？
 エポメトロープとは、デジタルファブリケーションやオープンソースハードウェア、市販品を組み合わせて作ることができる全周観察型立体ディスプレイ（360度どの角度からでも観察することのできる立体像を表示できる装置）です。
 
@@ -23,3 +20,6 @@ https://github.com/yutaka-miki/epomeHLSResceiver
 # 作品
 Aqualium  
 https://github.com/yutaka-miki/Aqualium
+
+# OFAD Media Project
+https://note.com/katayukimi/n/naa818877c9c2  
