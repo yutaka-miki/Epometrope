@@ -12,8 +12,8 @@ void loop() {
   Serial.println(val);
 
   //If you need to, you will need to adjust the thresholds. 
-  int threshold1 = 200
-  int threshold2 = 500
+  int threshold1 = 200;
+  int threshold2 = 500;
 
   if(val <= threshold1){
     digitalWrite(2,LOW);
