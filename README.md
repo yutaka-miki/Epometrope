@@ -5,13 +5,21 @@
 
 # 仕組み
 
-# 主な材料
+# 主な材料  
+MDF  
+3Dプリンタ用フィラメント  
+Raspberry Pi 3b+ ×2
+7inch Raspberry Pi LCD Touch Screen ×2  
+Arduino nano every ×2  
+ブレッドボード  
+ギアードモーター  
+など  
 
 # 作り方 
 エポメトロープの制作手順については下記のドキュメントにまとめています。  
 『エポメトロープの作り方ー全周觀察型立体ディスプレイを自作する』  
 https://docs.google.com/document/d/19RMpfx-YfTb1uZXj3RErybrc5b69bqix4a3tBb6x_-0/edit?usp=sharing  
-<img src="images/cover-image.jpg" width="300">
+<img src="images/cover-image-500.jpg" width="300">
 
 # アプリケーション開発
 Movie converter for epometrope  
