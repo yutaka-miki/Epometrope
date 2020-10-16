@@ -8,7 +8,11 @@
 # 主な材料
 
 # 作り方 
-https://docs.google.com/document/d/19RMpfx-YfTb1uZXj3RErybrc5b69bqix4a3tBb6x_-0/edit?usp=sharing
+エポメトロープの制作手順については下記のドキュメントにまとめています。  
+『エポメトロープの作り方ー全周觀察型立体ディスプレイを自作する』  
+https://docs.google.com/document/d/19RMpfx-YfTb1uZXj3RErybrc5b69bqix4a3tBb6x_-0/edit?usp=sharing  
+
+
 
 # アプリケーション開発
 Movie converter for epometrope  
