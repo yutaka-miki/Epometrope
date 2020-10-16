@@ -3,16 +3,15 @@
 
 # 紹介動画
 
-# 仕組み
+# 仕組み  
 
 # 主な材料  
-MDF  
-3Dプリンタ用フィラメント  
-Raspberry Pi 3b+ ×2
-7inch Raspberry Pi LCD Touch Screen ×2  
-Arduino nano every ×2  
-ブレッドボード  
-ギアードモーター  
+・MDF  
+・3Dプリンタ用フィラメント  
+・Raspberry Pi 3b+ ×2
+・7inch Raspberry Pi LCD Touch Screen ×2  
+・Arduino nano every ×2  
+・ギアードモーター  
 など  
 
 # 作り方 
