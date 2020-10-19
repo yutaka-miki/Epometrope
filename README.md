@@ -44,5 +44,8 @@ https://github.com/yutaka-miki/epomeHLSResceiver
 Aqualium  
 https://github.com/yutaka-miki/Aqualium
 
+# 質問
+https://github.com/yutaka-miki/epometorope-hardware/issues/1
+
 # OFAD Media Project
 https://github.com/yutaka-miki/epometorope-hardware/blob/main/OFAD-Media-Project.md 
