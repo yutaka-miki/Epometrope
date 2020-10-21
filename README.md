@@ -1,6 +1,6 @@
-## 注意点
-・公開されているデータはβ版になります。実際に制作を検討する際は、設計者（yutaka-miki19(at)iamas.ac.jp）まで、ご一報お願いいたします。  
-・こちらから一部パーツ（MDF、3Dプリントのパーツなど）を提供した上で制作をしていただく、リモートワークショップを随時開催しています。  
+### 注意点
+###### ・公開されているデータはβ版になります。実際に制作を検討する際は、設計者（yutaka-miki19(at)iamas.ac.jp）まで、ご一報お願いいたします。  
+###### ・こちらから一部パーツ（MDF、3Dプリントのパーツなど）を提供した上で制作をしていただく、リモートワークショップを随時開催しています。  
 
 ## エポメトロープとは
 エポメトロープとは、デジタルファブリケーションで制作したパーツやオープンソースハードウェア、市販品を組み合わせて作ることができる全周観察型立体ディスプレイです。
@@ -35,18 +35,14 @@ https://docs.google.com/document/d/19RMpfx-YfTb1uZXj3RErybrc5b69bqix4a3tBb6x_-0/
 現在、PC上で加工した『専用2D映像』をエポメトロープ内のRaspberryPiにコピーして『3D映像』として再生する方法を推奨しています。  
 （鑑賞者に対してインタラクティブな作品を制作することも可能ではありますが、現在はまだ検証段階です。）
 
-#### 開発環境
-紹介するアプリケーションの動作は以下のOS及びバージョン以外では確認していません。
-・0SX 10.15.4
-
 #### 専用2D映像の制作方法  
-Movie converter for epometrope  
   
+Movie converter for epometrope  
 https://github.com/yutaka-miki/Movie-converter-for-epometrope  
    
 #### 3D映像の再生方法  
+  
 epomeMoviePlayer  
-「Movie converter for epometrope」で制作した2D映像をエポメトロープ上で3D映像として再生するためのアプリケーション。  
 https://github.com/yutaka-miki/epomeMoviePlayer  
 
 #### その他  
