@@ -33,7 +33,7 @@ https://docs.google.com/document/d/19RMpfx-YfTb1uZXj3RErybrc5b69bqix4a3tBb6x_-0/
 
 # コンテンツ開発
 コンテンツの開発手法について紹介します。  
-現在、PC上で加工した専用2D映像をエポメトロープ内のRaspberryPiにコピーして「epomeMoviePlayer」で3D映像として再生する方法を推奨しています。  
+現在、PC上で加工した『専用2D映像』をエポメトロープ内のRaspberryPiにコピーして『3D映像』として再生する方法を推奨しています。  
 （鑑賞者に対してインタラクティブな作品を制作することも可能ではありますが、現在はまだ検証段階です。）
 
 【専用2D映像の制作方法】  
@@ -41,7 +41,7 @@ Movie converter for epometrope
   
 https://github.com/yutaka-miki/Movie-converter-for-epometrope  
    
-【3D映像の再生方法】
+【3D映像の再生方法】  
 epomeMoviePlayer  
 「Movie converter for epometrope」で制作した2D映像をエポメトロープ上で3D映像として再生するためのアプリケーション。  
 https://github.com/yutaka-miki/epomeMoviePlayer  
