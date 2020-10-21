@@ -6,6 +6,7 @@
 エポメトロープとは、デジタルファブリケーションで制作したパーツやオープンソースハードウェア、市販品を組み合わせて作ることができる全周観察型立体ディスプレイです。
 
 # 紹介動画
+  
 https://youtu.be/bQH5cyU_22U  
 https://youtu.be/xwzOMGTIUi8  
 
@@ -29,12 +30,21 @@ https://docs.google.com/document/d/19RMpfx-YfTb1uZXj3RErybrc5b69bqix4a3tBb6x_-0/
   
 <img src="images/cover-image-500.jpg" width="300">
 
-# アプリケーション開発
+# コンテンツ開発
+で制作することを推奨しています。  
+（鑑賞者に対してインタラクティブな作品を制作することも不可能ではありませんが、現在はまだ検証段階です。）
+
+【立体映像を制作するためのアプリケーション】  
+
 Movie converter for epometrope  
+  
 https://github.com/yutaka-miki/Movie-converter-for-epometrope  
     
 epomeMoviePlayer  
+「Movie converter for epometrope」で制作した2D映像をエポメトロープ上で3D映像として再生するためのアプリケーション。  
 https://github.com/yutaka-miki/epomeMoviePlayer  
+
+【その他】  
   
 epomeStreamDemo  
 https://github.com/yutaka-miki/epomeStreamDemo  
