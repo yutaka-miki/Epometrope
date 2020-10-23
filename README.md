@@ -70,5 +70,9 @@ https://github.com/yutaka-miki/Aqualium
 ## 質問・意見
 https://github.com/yutaka-miki/epometorope-hardware/issues/1
 
+## 全周観察型立体ディスプレイ
+
+## ライトフィールドディスプレイ
+
 ## OFAD Media Project
 https://github.com/yutaka-miki/epometorope-hardware/blob/main/OFAD-Media-Project.md 
