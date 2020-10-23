@@ -11,7 +11,6 @@
 - 比較的低価格で制作することができ、個人で所有することができる。  
 - Raspberry PiとArduinoを採用しているので、汎用性・拡張性が高い。  
 - 解像度やフレームレートが低く、細かい表現ができない。  
-- 定期的なメンテナンス必要。 
   
 ## ライセンス
 現在、エポメトロープのハードウェアの制作用データ・説明書及び関連するソフトウェアは下記のライセンスに則り公開されています。  
@@ -50,7 +49,7 @@ https://docs.google.com/document/d/19RMpfx-YfTb1uZXj3RErybrc5b69bqix4a3tBb6x_-0/
 
 ## コンテンツ開発
 コンテンツの開発手法について紹介します。  
-現在、PC上で加工した『専用2D映像』をエポメトロープ内のRaspberryPiにコピーして『3D映像』として再生する方法を推奨しています。  
+現在、PC上で加工した**『専用2D映像』**をエポメトロープ内のRaspberryPiにコピーして**『3D映像』**として再生する方法を推奨しています。  
 （鑑賞者に対してインタラクティブな作品を制作することも可能ではありますが、現在はまだ検証段階です。）
 
 #### ■専用2D映像の制作方法  
@@ -78,12 +77,13 @@ https://github.com/yutaka-miki/Aqualium
 https://github.com/yutaka-miki/epometorope-hardware/issues/1
 
 ## 全周観察型立体ディスプレイ
+「周囲360度すべての角度から観察できる立体像」をすることができ、物理空間上に3DCGがあるかのように見せることができます。
 Seelinder
 
 
 
 ## ライトフィールドディスプレイ
-
+全周観察型立体ディスプレイに近いジャンルとして、**ライトフィールドディスプレイ**が挙げられます。
 
 ## OFAD Media Project
 https://github.com/yutaka-miki/epometorope-hardware/blob/main/OFAD-Media-Project.md 
