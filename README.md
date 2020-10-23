@@ -6,8 +6,8 @@
 エポメトロープとは、デジタルファブリケーションで制作したパーツや市販品を組み合わせて作ることができる**オープンソースの全周観察型立体ディスプレイです。「周囲360度すべての角度から観察できる立体像」をすることができ、物理空間上に3DCGがあるように見せることができます。**  
   
 ## ライセンス
-エポメトロープのハードウェアの制作用データ・説明書及び関連するソフトウェアは下記のライセンスに則り公開されるものとします。  
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>  
+現在、エポメトロープのハードウェアの制作用データ・説明書及び関連するソフトウェアは下記のライセンスに則り公開されています。  
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja"> Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) </a>  
 
 ## 紹介動画
 https://youtu.be/bQH5cyU_22U   
