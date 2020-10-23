@@ -24,9 +24,10 @@ https://youtu.be/xwzOMGTIUi8
 
 #### ■メリット
   
-#### ■デメリット
+#### ■デメリット  
   
-
+<img src="images/How_it_works.jpg" width="500"> 
+  
 ## 材料  
 https://youtu.be/bQH5cyU_22U   
 オープンソースハードウェア（Raspberry Pi、Arduino）と通信販売やホームセンターなどで購入できる市販品で構成されています。  
