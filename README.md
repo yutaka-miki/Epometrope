@@ -5,8 +5,17 @@
   
 # Epometrope（Beta-ver）
 エポメトロープは、デジタルファブリケーションで制作したパーツや市販品を組み合わせて作ることができる**オープンソースの全周観察型立体ディスプレイです。「周囲360度すべての角度から観察できる立体像」をすることができ、物理空間上に3DCGがあるかのように見せることができます。**  
-  
 <!--Epometrope is an **open-source, "3D display obserbal from all directions"** that can be created by combining parts created in digital fabrication and commercially available products.**It is possible to create a 3D image that can be observed from all angles of the surrounding 360 degrees. It can make it appear as if 3DCG exists in physical space.**  -->
+    
+エポメトロープには既存の<a rel="license" href="https://github.com/yutaka-miki/epometorope#%E5%85%A8%E5%91%A8%E8%A6%B3%E5%AF%9F%E5%9E%8B%E7%AB%8B%E4%BD%93%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4" target="_blank"> 全周観察型立体ディスプレイ </a>  に比べて以下のような特徴があります。  
+  
+■メリット  
+・比較的低価格で制作することができ、個人で所有することができる。  
+・Raspberry PiとArduinoを採用しているので、汎用性・拡張性が高い。
+  
+■デメリット  
+・解像度やフレームレートが低く、細かい表現ができない。  
+・定期的なメンテナンス必要。 
   
 ## ライセンス
 現在、エポメトロープのハードウェアの制作用データ・説明書及び関連するソフトウェアは下記のライセンスに則り公開されています。  
@@ -23,18 +32,7 @@ https://youtu.be/xwzOMGTIUi8
 ## 仕組み  
 回転する表示部がセンサーにより自分の向いている方向を認識し、対応した角度の画像を表示します。これにより、 **エポメトロープの正面からみた時には正面の像が見え、左側から見れば左側の像が見えるようになります。** さらに、右目と左目に見える画像の角度や位置が異なることによる視差効果も生まれ、あたかも3DCGが中に入っているように見せることができるのです。  
   
-<img src="images/How_it_works_1000.jpg" width="500">
-
-## 特徴  
-他の全周観察型立体ディスプレイ  
-  
-■メリット  
-・比較的低価格で制作することができ、個人で所有することができる。  
-・Raspberry PiとArduinoを採用しているので、汎用性・拡張性が高い。
-
-■デメリット  
-・解像度やフレームレートが低く、細かい表現ができない。  
-・定期的なメンテナンスや修理が必要。  
+<img src="images/How_it_works_1000.jpg" width="500"> 
   
 ## 材料  
 https://youtu.be/bQH5cyU_22U   
@@ -84,8 +82,12 @@ https://github.com/yutaka-miki/Aqualium
 https://github.com/yutaka-miki/epometorope-hardware/issues/1
 
 ## 全周観察型立体ディスプレイ
+Seelinder
+
+
 
 ## ライトフィールドディスプレイ
+
 
 ## OFAD Media Project
 https://github.com/yutaka-miki/epometorope-hardware/blob/main/OFAD-Media-Project.md 
