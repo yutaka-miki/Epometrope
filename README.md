@@ -3,10 +3,13 @@
 <sup>・公開されているデータはβ版になります。実際に制作を検討する際は、設計者（yutaka-miki19(at)iamas.ac.jp）まで、ご一報お願いいたします。メールなどにて制作のサポートを致します。</sup>  
 <sup>・こちらから一部パーツ（MDF、3Dプリントのパーツなど）を提供した上で制作をしていただく、リモートワークショップを随時開催しています。</sup>  
 
-#### ライセンス
-
 ## エポメトロープとは
 エポメトロープとは、デジタルファブリケーションで制作したパーツや市販品を組み合わせて作ることができる**オープンソースの全周観察型立体ディスプレイです。「周囲360度すべての角度から観察できる立体像」をすることができ、物理空間上に3DCGがあるように見せることができます。**
+
+## ライセンス
+エポメトロープのハードウェア及び関連するソフトウェアは下記のライセンスガイドラインに則り公開されるものとします。  
+- <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>
+https://creativecommons.org/licenses/by-sa/3.0/deed.en_US
 
 ## 紹介動画
 https://youtu.be/bQH5cyU_22U   
@@ -24,6 +27,7 @@ https://youtu.be/xwzOMGTIUi8
   
 
 ## 材料  
+https://youtu.be/bQH5cyU_22U   
 オープンソースハードウェア（Raspberry Pi、Arduino）と通信販売やホームセンターなどで購入できる市販品で構成されています。  
 ・MDF  
 ・3Dプリンタ用フィラメント  
@@ -34,9 +38,9 @@ https://youtu.be/xwzOMGTIUi8
 など  
 
 ## 作り方 
+https://docs.google.com/document/d/19RMpfx-YfTb1uZXj3RErybrc5b69bqix4a3tBb6x_-0/edit?usp=sharing  
 エポメトロープの制作手順については下記のドキュメントにまとめています。  
 『エポメトロープの作り方ー全周觀察型立体ディスプレイを自作する』  
-https://docs.google.com/document/d/19RMpfx-YfTb1uZXj3RErybrc5b69bqix4a3tBb6x_-0/edit?usp=sharing  
   
 <img src="images/cover-image-500.jpg" width="300">
 
