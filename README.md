@@ -7,7 +7,7 @@
   
 ## ライセンス
 現在、エポメトロープのハードウェアの制作用データ・説明書及び関連するソフトウェアは下記のライセンスに則り公開されています。  
-<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja"> Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) </a>  
+<a rel="license" target="_blank" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja"> Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) </a>  
 
 ## 紹介動画
 https://youtu.be/bQH5cyU_22U   
@@ -36,9 +36,9 @@ https://youtu.be/bQH5cyU_22U
 など  
 
 ## 作り方 
-https://docs.google.com/document/d/19RMpfx-YfTb1uZXj3RErybrc5b69bqix4a3tBb6x_-0/edit?usp=sharing  
 エポメトロープの制作手順については下記のドキュメントにまとめています。  
 『エポメトロープの作り方ー全周觀察型立体ディスプレイを自作する』  
+https://docs.google.com/document/d/19RMpfx-YfTb1uZXj3RErybrc5b69bqix4a3tBb6x_-0/edit?usp=sharing  
   
 <img src="images/cover-image-500.jpg" width="300">
 
