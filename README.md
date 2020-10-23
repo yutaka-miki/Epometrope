@@ -8,8 +8,7 @@
 
 ## ライセンス
 エポメトロープのハードウェア及び関連するソフトウェアは下記のライセンスガイドラインに則り公開されるものとします。  
-- <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>
-https://creativecommons.org/licenses/by-sa/3.0/deed.en_US
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>  
 
 ## 紹介動画
 https://youtu.be/bQH5cyU_22U   
