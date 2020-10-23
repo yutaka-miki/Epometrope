@@ -27,7 +27,7 @@ https://youtu.be/xwzOMGTIUi8
   
 #### ■デメリット  
   
-<img src="images/How_it_works.jpg" width="500"> 
+<img src="images/How_it_works_1000.jpg" width="500"> 
   
 ## 材料  
 https://youtu.be/bQH5cyU_22U   
