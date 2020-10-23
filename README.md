@@ -4,12 +4,14 @@
 <sup>・こちらから一部パーツ（MDF、3Dプリントのパーツなど）を提供した上で制作をしていただく、リモートワークショップを随時開催しています。</sup>  
 
 ## エポメトロープとは
-エポメトロープとは、デジタルファブリケーションで制作したパーツやオープンソースハードウェア、市販品を組み合わせて作ることができる全周観察型立体ディスプレイです。
+エポメトロープとは、デジタルファブリケーションで制作したパーツやオープンソースハードウェア、市販品を組み合わせて作ることができる全周観察型立体ディスプレイです。全周観察型立体ディスプレイとは、できる表示装置のことです。
 
 ## 紹介動画
   
 https://youtu.be/bQH5cyU_22U  
+  
 https://youtu.be/xwzOMGTIUi8  
+  
 
 ## 仕組み  
 Raspberry Pi が Arduino を介してセンサーの信号を読み取り、自分の向いている方向を認識し、対応した角度の画像を表示します。これにより、エポメトロープの正面からみた時には正面の像が見え、左側から見れば左側の像が見えるようになります。また右目と左目に見える画像の角度や位置が異なることによる視差効果も生まれ、あたかも、立体物が中に入っているように見せることができるのです。  
@@ -36,17 +38,17 @@ https://docs.google.com/document/d/19RMpfx-YfTb1uZXj3RErybrc5b69bqix4a3tBb6x_-0/
 現在、PC上で加工した『専用2D映像』をエポメトロープ内のRaspberryPiにコピーして『3D映像』として再生する方法を推奨しています。  
 （鑑賞者に対してインタラクティブな作品を制作することも可能ではありますが、現在はまだ検証段階です。）
 
-#### 専用2D映像の制作方法  
+#### ■専用2D映像の制作方法  
   
 Movie converter for epometrope  
 https://github.com/yutaka-miki/Movie-converter-for-epometrope  
    
-#### 3D映像の再生方法  
+#### ■3D映像の再生方法  
   
 epomeMoviePlayer  
 https://github.com/yutaka-miki/epomeMoviePlayer  
 
-#### その他  
+#### ■その他  
 epomeStreamDemo  
 https://github.com/yutaka-miki/epomeStreamDemo  
   
