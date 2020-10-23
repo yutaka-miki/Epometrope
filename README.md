@@ -5,6 +5,8 @@
 # Epometrope（Beta-ver）
 エポメトロープとは、デジタルファブリケーションで制作したパーツや市販品を組み合わせて作ることができる**オープンソースの全周観察型立体ディスプレイです。「周囲360度すべての角度から観察できる立体像」をすることができ、物理空間上に3DCGがあるように見せることができます。**  
   
+Epometrope is an open-source, 3D display that can be created by combining parts created in digital fabrication and commercially available products.It is possible to create a 3D image that can be observed from all angles of the surrounding 360 degrees. It can make it appear as if 3DCG exists in physical space.   
+  
 ## ライセンス
 現在、エポメトロープのハードウェアの制作用データ・説明書及び関連するソフトウェアは下記のライセンスに則り公開されています。  
 <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" target="_blank"> Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) </a>  
