@@ -42,7 +42,7 @@ https://youtu.be/bQH5cyU_22U
 
 ## 作り方 
 エポメトロープの制作手順については下記のドキュメントにまとめています。  
-『エポメトロープの作り方ー全周観察型立体ディスプレイを自作する』  
+**『エポメトロープの作り方ー全周観察型立体ディスプレイを自作する』**   
 https://docs.google.com/document/d/19RMpfx-YfTb1uZXj3RErybrc5b69bqix4a3tBb6x_-0/edit?usp=sharing  
   
 <img src="images/cover-image-500.jpg" width="300">
