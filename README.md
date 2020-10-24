@@ -78,12 +78,33 @@ https://github.com/yutaka-miki/epometorope-hardware/issues/1
 
 ## 全周観察型立体ディスプレイ
 「周囲360度すべての角度から観察できる立体像」をすることができ、物理空間上に3DCGがあるかのように見せることができます。
-Seelinder
-
-
-
+- 『プロダクト名』、開発、発表年、販売有無  
+　参考URL  
+   
+- 『Perspecta』、Actuality Systems、2003、無（発表当時医療関係などをターゲットに販売されていたが、開発元は2009年に解散し現在は販売されていない。）  
+　https://www.itmedia.co.jp/news/articles/0406/16/news081.html  
+　https://www.youtube.com/watch?v=HUPn_FxDGeI  
+   
+- 『Seelinder』、通信放送機構（現NICT）、2005、無  
+　https://www.jstage.jst.go.jp/article/itej1997/59/10/59_10_1506/_pdf  
+　https://www.youtube.com/watch?v=ys1yJMouGGQ  
+   
+- 『RayModeler』、ソニー、2010、無  
+　https://gigazine.net/news/20100721_sony_raymodeler/  
+　https://www.youtube.com/watch?v=yS0_3Sql-5E  
+ 
+- 『Interactive 360-Degree Glasses-Free Tabletop 3D display』、NTT・北海道大学、2019、無  
+　https://dl.acm.org/doi/10.1145/3332165.3347948
+　https://www.youtube.com/watch?v=8zNPyfiI55U  
+   
 ## ライトフィールドディスプレイ
-全周観察型立体ディスプレイに近いジャンルとして、**ライトフィールドディスプレイ**が挙げられます。
-
+全周観察型立体ディスプレイに近いジャンルとして、**ライトフィールドディスプレイ**が挙げられます。  
+  
+- 『Looking Glass』、Looking Glass Factory、2018、有（詳細は参考URL参照）  
+　https://lookingglassfactory.com/  
+   
+- 『Spatial Reality Display』、ソニー、2020、有（詳細は参考URL参照）  
+　https://www.sony.jp/spatial-reality-display/  
+  
 ## OFAD Media Project
 https://github.com/yutaka-miki/epometorope-hardware/blob/main/OFAD-Media-Project.md 
