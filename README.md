@@ -72,7 +72,7 @@ https://docs.google.com/document/d/19RMpfx-YfTb1uZXj3RErybrc5b69bqix4a3tBb6x_-0/
 ・Cinema4D  
 ・openFrameWorks  </sup>
 
-<img src="images/2D-image_3.jpg" width="500" border=”5″>   
+<img src="images/2D-image_3.jpg" width="500">   
   
 (3)出力された連番画像を<a rel="license" href="https://github.com/yutaka-miki/Movie-converter-for-epometrope" target="_blank">Movie converter for epometrope</a>で「専用2D映像映像」に変換します。  
 
