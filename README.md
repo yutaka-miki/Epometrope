@@ -4,13 +4,14 @@
 <!--<br/>The published data is a beta version. If you want to make this product, please contact me (yutaka-miki19(at)iamas.ac.jp). I will support you by email.-->
   
 # Epometrope（Beta）
-エポメトロープは、デジタルファブリケーションで制作したパーツや市販品を組み合わせて作ることができる**オープンソースの全周観察型立体ディスプレイです。「周囲360度すべての角度から観察できる立体像」をすることができ、物理空間上に3DCGがあるかのように見せることができます。**  
+エポメトロープは、デジタルファブリケーションで制作したパーツや市販品を組み合わせて作ることができる**オープンソースの全周観察型立体ディスプレイです。「周囲360度すべての角度から観察できる立体像」を表示することができ、物理空間上に3DCGがあるかのように見せることができます。**  
 <!--Epometrope is an **open-source, "3D display obserbal from all directions"** that can be created by combining parts created in digital fabrication and commercially available products.**It is possible to create a 3D image that can be observed from all angles of the surrounding 360 degrees. It can make it appear as if 3DCG exists in physical space.**  -->
     
 エポメトロープには既存の<a rel="license" href="https://github.com/yutaka-miki/epometorope#%E5%85%A8%E5%91%A8%E8%A6%B3%E5%AF%9F%E5%9E%8B%E7%AB%8B%E4%BD%93%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4" target="_blank"> #全周観察型立体ディスプレイ </a>  に比べて以下のような特徴があります。  
 - 比較的低価格で制作することができ、個人で所有することができる。  
+- 高速プロジェクタなどを必要とせず、機構がシンプルかつコンパクトになっている。
 - Raspberry PiとArduinoを採用しているので、汎用性・拡張性が高い。  
-- 解像度やフレームレートが低く、細かい表現ができない。  
+- 解像度やフレームレートが低く、細かな表現に向かない。  
   
 ## ライセンス
 現在、エポメトロープのハードウェアの制作用データ・説明書及び関連するソフトウェアは下記のライセンスに則り公開されています。  
@@ -77,7 +78,8 @@ https://github.com/yutaka-miki/Aqualium
 https://github.com/yutaka-miki/epometorope-hardware/issues/1
 
 ## 全周観察型立体ディスプレイ
-「周囲360度すべての角度から観察できる立体像」をすることができ、物理空間上に3DCGがあるかのように見せることができます。
+全周観察型立体ディスプレイは「周囲360度すべての角度から観察できる立体像」を表示することができ、物理空間上に3DCGがあるかのように見せることができます。その開発の歴史は以外に古く1990年代から様々な研究機関、企業で行われてきました。
+
 - 『プロダクト名』、開発、発表年、販売有無  
 　参考URL  
    
@@ -98,7 +100,7 @@ https://github.com/yutaka-miki/epometorope-hardware/issues/1
 　https://www.youtube.com/watch?v=8zNPyfiI55U  
    
 ## ライトフィールドディスプレイ
-全周観察型立体ディスプレイに近いジャンルとして、**ライトフィールドディスプレイ**が挙げられます。  
+全周観察型立体ディスプレイに近しいジャンルとして、**ライトフィールドディスプレイ**が挙げられます。全周観察型立体ディスプレイと比較したときに、物体の発する光線を細やかに再現することに特化しています。視野角や多人数視聴の部分は劣るものの、解像度が高く、コストパフォーマンスやメンテナンス性にも優れるという利点があります。
   
 - 『Looking Glass』、Looking Glass Factory、2018、有（詳細は参考URL参照）  
 　https://lookingglassfactory.com/  
