@@ -53,8 +53,7 @@ https://docs.google.com/document/d/19RMpfx-YfTb1uZXj3RErybrc5b69bqix4a3tBb6x_-0/
 現在、PC上で加工した **『専用2D映像』** をエポメトロープ内のRaspberryPiにコピーして **『3D映像』** として再生する方法を推奨しています。  
 （鑑賞者に対してインタラクティブな作品を制作することも可能ではありますが、現在はまだ検証段階です。）
 
-#### ■専用2D映像の制作方法  
-
+### 専用2D映像の制作方法  
 まず制作する『専用2D映像』の概要について説明します。『専用2D映像』は（ほぼ）同時間に別々の視点（カメラ）から撮影された映像が並べられています。円環状に並べられた16の視点から撮影された映像が並べられています。映像が横向きになっているのはエポメトロープに取り付けられているRaspberry Piが横向きに取り付けられているためです。
   
 (1)素材となる3DCGアニメーションを制作します。以下の点に留意するとわかりやすく魅力的な立体映像になると思います。  
@@ -63,7 +62,7 @@ https://docs.google.com/document/d/19RMpfx-YfTb1uZXj3RErybrc5b69bqix4a3tBb6x_-0/
 - 立方体や球などの単純な立体や人や動物などの記号的に理解しやすいオブジェクトのほうが鑑賞者に理解されやすい。  
 - 細かい造形は表現は3D映像にしたときにぼやけてわからなくなる可能性がある。  
 
-(2)レンダリングします。連番となるように出力をします。  
+(2)レンダリングします。サイズは横120pixel×縦200pixelで、連番となるように出力をします。  
 各アプリケーションでの出力方法については今後まとめていきます。現在出力できることが確認できているアプリケーションは以下の通り。  
 - MMD
 - Cinema4D
@@ -71,15 +70,15 @@ https://docs.google.com/document/d/19RMpfx-YfTb1uZXj3RErybrc5b69bqix4a3tBb6x_-0/
   
 (3)出力された連番画像を<a rel="license" href="https://github.com/yutaka-miki/Movie-converter-for-epometrope" target="_blank">Movie converter for epometrope</a>で専用2D映像映像に変換します。  
   
-Movie converter for epometrope  
-https://github.com/yutaka-miki/Movie-converter-for-epometrope  
+<!--Movie converter for epometrope  
+https://github.com/yutaka-miki/Movie-converter-for-epometrope -->
    
-#### ■3D映像の再生方法  
+### 3D映像の再生方法  
   
 epomeMoviePlayer  
 https://github.com/yutaka-miki/epomeMoviePlayer  
 
-#### ■その他  
+### その他  
 epomeStreamDemo  
 https://github.com/yutaka-miki/epomeStreamDemo  
   
