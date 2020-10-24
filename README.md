@@ -94,7 +94,7 @@ https://github.com/yutaka-miki/epometorope-hardware/issues/1
 　https://www.youtube.com/watch?v=yS0_3Sql-5E  
  
 - 『Interactive 360-Degree Glasses-Free Tabletop 3D display』、NTT・北海道大学、2019、無  
-　https://dl.acm.org/doi/10.1145/3332165.3347948
+　https://dl.acm.org/doi/10.1145/3332165.3347948　　
 　https://www.youtube.com/watch?v=8zNPyfiI55U  
    
 ## ライトフィールドディスプレイ
