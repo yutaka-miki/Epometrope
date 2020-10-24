@@ -50,11 +50,11 @@ https://docs.google.com/document/d/19RMpfx-YfTb1uZXj3RErybrc5b69bqix4a3tBb6x_-0/
 
 ## コンテンツ開発
 コンテンツの開発手法について紹介します。  
-現在、PC上で加工した **『専用2D映像』** をエポメトロープ内のRaspberryPiにコピーして **『3D映像』** として再生する方法を推奨しています。  
+現在、PC上で加工した **「専用2D映像」** をエポメトロープ内のRaspberryPiにコピーして **「3D映像」** として再生する方法を推奨しています。  
 （鑑賞者に対してインタラクティブな作品を制作することも可能ではありますが、現在はまだ検証段階です。）
 
-### 専用2D映像の制作方法  
-まず制作する『専用2D映像』の概要について説明します。『専用2D映像』は（ほぼ）同時間に別々の視点（カメラ）から撮影された映像が並べられています。円環状に並べられた16の視点から撮影された映像が並べられています。映像が横向きになっているのはエポメトロープに取り付けられているRaspberry Piが横向きに取り付けられているためです。  
+### 「専用2D映像」の制作方法  
+まず制作する「専用2D映像」の概要について説明します。「専用2D映像」は（ほぼ）同時間に別々の視点（カメラ）から撮影された映像が並べられています。円環状に並べられた16の視点から撮影された映像が並べられています。映像が横向きになっているのはエポメトロープに取り付けられているRaspberry Piが横向きに取り付けられているためです。  
 
 <img src="images/2D-image_1.jpg" width="500"> 
 <img src="images/2D-image_2.jpg" width="500"> 
@@ -65,16 +65,18 @@ https://docs.google.com/document/d/19RMpfx-YfTb1uZXj3RErybrc5b69bqix4a3tBb6x_-0/
 - 立方体や球などの単純な立体や人や動物などの記号的に理解しやすいオブジェクトのほうが鑑賞者に理解されやすい。  
 - 細かい造形は表現は3D映像にしたときにぼやけてわからなくなる可能性がある。  
 
-(2)レンダリングします。カメラがオブジェクトの周りを回転しながらレンダリングするように設定します。最終的に作成する『専用2D映像』のフレームレートを「10fps」にする場合、カメラが1秒間に10回転するように設定し、レンダリング側のフレームレートは「160fps」に設定します。サイズは横120pixel×縦200pixelで、連番となるように出力をします。  
+(2)レンダリングします。カメラがオブジェクトの周りを回転しながらレンダリングするように設定します。最終的に作成する「専用2D映像」のフレームレートを「10fps」にする場合、カメラが1秒間に10回転するように設定し、レンダリング側のフレームレートは「160fps」に設定します。サイズは横120pixel×縦200pixelで、連番となるように出力をします。  
   
 <sup>各アプリケーションでの出力方法については今後まとめていきます。現在出力できることが確認できているアプリケーションは以下の通り。  
 ・MMD  
 ・Cinema4D  
 ・openFrameWorks  </sup>
 
-<img src="images/2D-image_1.jpg" width="500">   
+<img src="images/2D-image_3.jpg" width="500" border=”5″>   
   
-(3)出力された連番画像を<a rel="license" href="https://github.com/yutaka-miki/Movie-converter-for-epometrope" target="_blank">Movie converter for epometrope</a>で専用2D映像映像に変換します。  
+(3)出力された連番画像を<a rel="license" href="https://github.com/yutaka-miki/Movie-converter-for-epometrope" target="_blank">Movie converter for epometrope</a>で「専用2D映像映像」に変換します。  
+
+<img src="images/2D-image_4.gif" width="500"> 
   
 <!--Movie converter for epometrope  
 https://github.com/yutaka-miki/Movie-converter-for-epometrope -->
