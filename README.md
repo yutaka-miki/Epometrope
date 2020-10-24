@@ -78,7 +78,7 @@ https://github.com/yutaka-miki/Aqualium
 https://github.com/yutaka-miki/epometorope-hardware/issues/1
 
 ## 全周観察型立体ディスプレイ
-全周観察型立体ディスプレイは「周囲360度すべての角度から観察できる立体像」を表示することができ、物理空間上に3DCGがあるかのように見せることができます。その開発の歴史は以外に古く、1990年代から様々な方式の装置が発明・開発されてきました。
+全周観察型立体ディスプレイは「周囲360度すべての角度から観察できる立体像」を表示することができ、物理空間上に3DCGがあるかのように見せることができます。その歴史は以外に古く、1990年代から様々な方式の装置が発明・開発されてきました。
 
 - 『プロダクト名』、開発、発表年、販売有無  
 　参考URL  
@@ -110,4 +110,5 @@ https://github.com/yutaka-miki/epometorope-hardware/issues/1
   
 ## OFAD Media Project  
 OFAD Media Project では、全周観察型立体ディスプレイのオープンソース化やコンテンツ開発、コミュニティ形成に取り組んでいます。これまで専門機関の研究成果物としてしか存在していなかった、この装置をアマチュア及びパブリックに開くことで、立体ディスプレイの未来や存在意義について議論したり、これまでなかったサービスや表現が生み出されるコミュニティを醸成することを目指しています。  
+  
 https://github.com/yutaka-miki/epometorope-hardware/blob/main/OFAD-Media-Project.md 
