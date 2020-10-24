@@ -79,6 +79,8 @@ epomeMoviePlayer
 https://github.com/yutaka-miki/epomeMoviePlayer  
 
 ### その他  
+開発を簡略化するために、PCからエポメトロープに直接映像を送信するシステムを開発・公開しています。  
+  
 epomeStreamDemo  
 https://github.com/yutaka-miki/epomeStreamDemo  
   
