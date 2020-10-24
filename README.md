@@ -108,5 +108,6 @@ https://github.com/yutaka-miki/epometorope-hardware/issues/1
 - 『Spatial Reality Display』、ソニー、2020、有（詳細は参考URL参照）  
 　https://www.sony.jp/spatial-reality-display/  
   
-## OFAD Media Project
+## OFAD Media Project  
+OFAD Media Project では、全周観察型立体ディスプレイのオープンソース化やコンテンツ開発、コミュニティ形成に取り組んでいます。これまで専門機関の研究成果物としてしか存在していなかった、この装置をアマチュア及びパブリックに開くことで、立体ディスプレイの未来や存在意義について議論したり、これまでなかったサービスや表現が生み出されるコミュニティを醸成することを目指しています。  
 https://github.com/yutaka-miki/epometorope-hardware/blob/main/OFAD-Media-Project.md 
