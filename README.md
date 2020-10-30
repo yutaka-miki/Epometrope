@@ -104,6 +104,7 @@ https://github.com/yutaka-miki/epomeHLSResceiver
 https://github.com/yutaka-miki/Aqualium
 
 ## 質問・意見
+質問・意見などについては、GitHubのIssue上に投稿をお願いいたします。
 https://github.com/yutaka-miki/epometorope-hardware/issues/1
 
 ## 全周観察型立体ディスプレイ
