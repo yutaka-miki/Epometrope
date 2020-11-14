@@ -30,8 +30,8 @@ Epometrope has the following features compared to existing <a rel="license" href
   
 ## ライセンス
 現在、エポメトロープのハードウェアの制作用データ・説明書及び関連するソフトウェアは下記のライセンスに則り公開されています。  
-<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" target="_blank"> Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) </a>  
-
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" target="_blank"> Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) </a>
+  
 ## 紹介動画
 <sup>※動画内のエポメトロープは展示のために表示部に塗装を施しています。</sup>  
 https://youtu.be/bQH5cyU_22U   
