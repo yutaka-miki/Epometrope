@@ -1,10 +1,11 @@
 <!--| 注意 |
 :----|
 | <sup>公開されているデータはβ版になります。実際に制作を検討する際は、設計者（yutaka-miki19(at)iamas.ac.jp）まで、ご一報お願いいたします。メールなどにて制作のサポートをします。こちらから一部パーツ（MDF、3Dプリントのパーツなど）を提供した上で制作をしていただく、リモートワークショップを随時開催しています。</sup> | -->
+<!--
 | お知らせ |
 :----|
 | <sup>こちらから一部パーツ（MDF、3Dプリントのパーツなど）を提供した上で制作をしていただく、リモートワークショップを随時開催しています。興味のある方は「yutaka-miki19(at)iamas.ac.jp」まで、ご連絡ください。</sup> | 
-
+-->
 <!--<br/>The published data is a beta version. If you want to make this product, please contact me (yutaka-miki19(at)iamas.ac.jp). I will support you by email.-->
   
 # Epometrope
@@ -15,6 +16,8 @@
 - 高速プロジェクタなどを必要とせず、機構がシンプルかつコンパクトになっている。
 - Raspberry PiとArduinoを採用しているので、汎用性・拡張性が高い。  
 - 解像度やフレームレートが低く、細かな表現に向かない。 
+  
+---
   
 Epometrope is an **open-source, "3D display obserbal from all directions"** that can be created by combining parts created in digital fabrication and commercially available products.**It is possible to create a 3D image that can be observed from all angles of the surrounding 360 degrees. It can make it appear as if 3DCG exists in physical space.**   
   
