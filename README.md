@@ -45,8 +45,7 @@ https://youtu.be/xwzOMGTIUi8
   
 <img src="images/How_it_works_1000.jpg" width="500"> 
   
-## 材料  
-https://youtu.be/bQH5cyU_22U   
+## 材料   
 オープンソースハードウェア（Raspberry Pi、Arduino）と通信販売やホームセンターなどで購入できる市販品で構成されています。  
 ・MDF  
 ・3Dプリンタ用フィラメント  
@@ -98,8 +97,8 @@ https://github.com/yutaka-miki/Movie-converter-for-epometrope -->
    
 ### 3D映像の再生方法  
   
-epomeMoviePlayer  
-https://github.com/yutaka-miki/epomeMoviePlayer  
+ofxEpometrope  
+https://github.com/yutaka-miki/ofxEpometrope  
 
 ### その他  
 開発を簡略化するために、PCからエポメトロープに直接映像を送信するシステムを開発・公開しています。  
