@@ -155,3 +155,8 @@ https://github.com/yutaka-miki/epometorope-hardware/issues/1
 OFAD Media Project では、全周観察型立体ディスプレイのオープンソース化やコンテンツ開発、コミュニティ形成に取り組んでいます。これまで専門機関の研究成果物としてしか存在していなかった、この装置をアマチュア及びパブリックに開くことで、立体ディスプレイの未来や存在意義について議論したり、これまでなかったサービスや表現が生み出されるコミュニティを醸成することを目指しています。  
   
 https://github.com/yutaka-miki/epometorope-hardware/blob/main/OFAD-Media-Project.md 
+
+## Reference
+サンプルファイルで使わせてもらった作品を紹介します。
+- <a rel="license" href="https://3d.nicovideo.jp/works/td30681" target="_blank">『Tda式初音ミクV4X』Tda様</a>
+- <a rel="license" href="https://www.nicovideo.jp/watch/sm27098405" target="_blank">『「glow」昭和臭漂うモーション』盗賊@つばきP様</a>
