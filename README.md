@@ -88,7 +88,7 @@ https://docs.google.com/document/d/19RMpfx-YfTb1uZXj3RErybrc5b69bqix4a3tBb6x_-0/
 
 <img src="images/2D-image_3.jpg" width="500">   
   
-(3)出力された連番画像を<a rel="license" href="https://github.com/yutaka-miki/Movie-converter-for-epometrope" target="_blank">Movie converter for epometrope</a>で「専用2D映像映像」に変換します。  
+(3)出力された連番画像を<a rel="license" href="https://github.com/yutaka-miki/Movie-converter-for-epometrope" target="_blank">Movie converter for epometrope</a>で「専用2D映像」に変換します。  
 
 <img src="images/2D-image_4.gif" width="500"> 
   
@@ -96,10 +96,11 @@ https://docs.google.com/document/d/19RMpfx-YfTb1uZXj3RErybrc5b69bqix4a3tBb6x_-0/
 https://github.com/yutaka-miki/Movie-converter-for-epometrope -->
    
 ### 3D映像の再生方法  
+「専用2D映像」をエポメトロープ上で再生する。  
   
-ofxEpometrope  
-https://github.com/yutaka-miki/ofxEpometrope  
-
+ofxEpometrope
+https://github.com/yutaka-miki/ofxEpometrope
+  
 ### その他  
 開発を簡略化するために、PCからエポメトロープに直接映像を送信するシステムを開発・公開しています。  
   
