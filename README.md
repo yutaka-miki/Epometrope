@@ -98,7 +98,7 @@ https://github.com/yutaka-miki/Movie-converter-for-epometrope -->
 ### 3D映像の再生方法  
 「専用2D映像」をエポメトロープ上で再生する。  
   
-ofxEpometrope
+ofxEpometrope  
 https://github.com/yutaka-miki/ofxEpometrope
   
 ### その他  
