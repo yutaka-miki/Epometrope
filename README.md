@@ -30,7 +30,7 @@ Epometrope has the following features compared to existing <a rel="license" href
   
 ## ライセンス
 現在、エポメトロープのハードウェアの制作用データ・説明書及び関連するソフトウェアは下記のライセンスに則り公開されています。  
-<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" target="_blank"> Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) </a>
+<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja" target="_blank"> Attribution-ShareAlike 4.0 International (CC BY-NC-SA 4.0) </a>
   
 ## 紹介動画
 <sup>※動画内のエポメトロープは展示のために表示部に塗装を施しています。</sup>  
@@ -151,11 +151,6 @@ https://github.com/yutaka-miki/epometorope-hardware/issues/1
    
 - 『Spatial Reality Display』、ソニー、2020、有（詳細は参考URL参照）  
 　https://www.sony.jp/spatial-reality-display/  
-  
-## OFAD Media Project  
-OFAD Media Project では、全周観察型立体ディスプレイのオープンソース化やコンテンツ開発、コミュニティ形成に取り組んでいます。これまで専門機関の研究成果物としてしか存在していなかった、この装置をアマチュア及びパブリックに開くことで、立体ディスプレイの未来や存在意義について議論したり、これまでなかったサービスや表現が生み出されるコミュニティを醸成することを目指しています。  
-  
-https://github.com/yutaka-miki/epometorope-hardware/blob/main/OFAD-Media-Project.md 
 
 ## Reference
 サンプルファイルで使わせてもらった作品を紹介します。
