@@ -8,7 +8,7 @@
 -->
 <!--<br/>The published data is a beta version. If you want to make this product, please contact me (yutaka-miki19(at)iamas.ac.jp). I will support you by email.-->
   
-# Epometrope (Ver1.0)
+# Epometrope (Ver2.0)
 エポメトロープは、デジタルファブリケーションで制作したパーツや市販品を組み合わせて作ることができる**オープンソースの全周観察型立体ディスプレイです。「周囲360度すべての角度から観察できる立体像」を表示することができ、物理空間上に3DCGがあるかのように見せることができます。**  
     
 エポメトロープには既存の<a rel="license" href="https://github.com/yutaka-miki/epometorope#%E5%85%A8%E5%91%A8%E8%A6%B3%E5%AF%9F%E5%9E%8B%E7%AB%8B%E4%BD%93%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4" target="_blank"> #全周観察型立体ディスプレイ </a>  に比べて以下のような特徴があります。  
@@ -48,17 +48,15 @@ https://youtu.be/xwzOMGTIUi8
 ## 材料   
 オープンソースハードウェア（Raspberry Pi、Arduino）と通信販売やホームセンターなどで購入できる市販品で構成されています。  
 ・MDF  
-・3Dプリンタ用フィラメント  
 ・Raspberry Pi 3b+ ×2  
-・7inch Raspberry Pi LCD Touch Screen ×2  
-・Arduino nano every ×2  
+・7inch Raspberry Pi LCD Touch Screen ×2    
 ・ギアードモーター  
 など  
 
 ## 作り方 
 エポメトロープの制作手順については下記のドキュメントにまとめています。  
 **『エポメトロープの作り方ー全周観察型立体ディスプレイを自作する』**   
-https://docs.google.com/document/d/19RMpfx-YfTb1uZXj3RErybrc5b69bqix4a3tBb6x_-0/edit?usp=sharing  
+https://docs.google.com/document/d/1X34tsvz5rnP_olaUhNPLPlbXOL-miv9ElO0a8FbZWD0/edit?usp=sharing
   
 <img src="images/cover-image-500.jpg" width="300">
 
